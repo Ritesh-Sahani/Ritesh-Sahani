@@ -16,7 +16,5 @@ I am Ritesh Kumar Sahani, the CTO of MaidConnect and a 3rd-year B.Tech CSE stude
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ritesh Sahani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
